@@ -1,3 +1,8 @@
 premiere note
 Deuxieme note
 Version MAIN
+<<<<<<< HEAD
+Version MAIN
+=======
+Version BRANCH
+>>>>>>> conflict-branch
